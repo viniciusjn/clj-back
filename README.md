@@ -5,7 +5,7 @@
 - aluno: Vinícius Pereira
 - professor: Marco Araújo / 4º período de SI
 
-- back-end realizado com Spring Boot, o sistema seria um painel gerencial de uma loja de jogos, existindo cadastro de funcionários, jogos, funcionários entre outros, rodando como aplicação web
+- back-end realizado com Spring Boot, o obejtivo era criar um painel gerencial de uma loja de jogos, com CRUD de várias classes como jogos, clientes e funcionários, entre outros, versionado como aplicação web
 - foi utlizado PostgreSQL como banco
 - clj-back (Controle Loja de Jogos - back-end)
 
