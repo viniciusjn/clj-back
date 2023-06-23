@@ -1,5 +1,5 @@
 <div align= "center">
-  ##  => Trabalho de Projeto Interdisciplinar <=
+  => Trabalho de Projeto Interdisciplinar <=
   </div>
 
 - aluno: Vinícius Pereira
