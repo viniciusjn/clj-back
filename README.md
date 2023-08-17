@@ -1,4 +1,4 @@
-Projeto da faculdade - CLJ (Controle Loja de Jogos)
+Projeto da faculdade - CLJ (Controle Loja de Jogos) <br>
 obs: este repositório é referente ao back-end
 
 -> OBJETIVO: o objetivo principal era a criação de um sistema gerencial versionado em aplicação web que possuísse inserção, alteração e exclusão de dados que se interligassem 
