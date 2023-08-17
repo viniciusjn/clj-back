@@ -1,7 +1,3 @@
-<div align= "center">
-  => Trabalho de Projeto Interdisciplinar <=
-  </div>
-
 - aluno: Vinícius Pereira
 - professor: Marco Araújo / 4º período de SI
 
